@@ -1,8 +1,6 @@
 ---
 layout: page
-title: home
+title: Home
 ---
 
 # Welcome
-
-[Add your welcome message or homepage content here]
