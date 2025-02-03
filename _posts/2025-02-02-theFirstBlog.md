@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Taking a Bigger Leap"
-date:   2025-02-12 12:00:00 +0530
+title:  "Welcome to My Blog!"
+date:   2025-02-03 22:58:05 +0530
 categories: jekyll update
 ---
 
